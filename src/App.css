@@ -308,7 +308,7 @@ body{
   .firmOffer{
     /* border: 1px solid green; */
     width: 100%;
-    max-width: 78.5%;
+    max-width: 93.5%;
     position: absolute;
     bottom: 5px;
     padding-top: 10px;
@@ -430,10 +430,9 @@ body{
     object-fit: cover;
   }
   .firmOffer {
-    width: 100%;
-    max-width: 80%;
+    width: 305px;
     position: absolute;
-    bottom: 10px; /* Adjust position for tablet */
+    bottom: 5px; /* Adjust position for tablet */
     padding-top: 15px; /* Adjust padding for tablet */
     padding-left: 15px; /* Adjust padding for tablet */
     font-size: 1.4rem; /* Adjust font size for tablet */
